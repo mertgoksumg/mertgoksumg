@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1200&center=true&vCenter=true&width=900&color=%23FFFFFF&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB+this+is+Mert+G%C3%B6ksu"alt="title"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="android" width="55" height="55" style="vertical-align: middle;"/>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1200&center=true&vCenter=true&width=600&color=%23FFFFFF&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB+this+is+Mert+G%C3%B6ksu" alt="title" style="vertical-align: middle;"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" alt="compose" width="55" height="55" style="vertical-align: middle;"/>
 </p>
+
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=4000&pause=1500&color=%23FFFFFF&center=true&vCenter=true&width=900&lines=Android+Developer+%7C+Kotlin+%26+Jetpack+Compose"
