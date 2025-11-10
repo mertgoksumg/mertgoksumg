@@ -1,14 +1,14 @@
 # About Me:
-💼 I'm a **Professional Android Developer** specializing in **Kotlin**, **XML**, and **Jetpack Compose**  
+💼 I'm an **Android Developer** specializing in **Kotlin**, **XML**, and **Jetpack Compose**  
 🏦 Currently working at **MARS Financial Software**, focusing on **fintech and payment systems**  
-🧠 I have **1.5 years of hands-on experience** developing Android applications for **financial and banking platforms**  
+🧠 I have **1.5 years of hands-on experience** developing Android applications for **financial platforms**  
 💡 Previously developed **mobile games and real-time systems** using **Unity** and **C#**  
-🌍 Passionate about **clean architecture**, **scalable mobile design**, and **continuous learning**  
+🌍 Passionate about **clean architecture**, **scalable mobile design**, **multiplatform systems** and **continuous learning**  
 📫 Reach me at: **mertgoksumg@gmail.com**
 <br><br>
 # Currently Learning:
-🧩 **Compose Multiplatform** – creating shared UIs across Android, iOS, and Desktop
-🚀 **Ktor** – building lightweight APIs and backend integrations with Kotlin  
+🧩 **Compose Multiplatform** – creating shared UI mobile applications across Android, iOS, and Desktop
+🚀 **Ktor** – building lightweight APIs and backend integrations with Kotlin for my personal projects  
 ⚙️ **CI/CD** – automating builds and deployment pipelines using **CircleCI**
 <br><br>
 # 💻 Tech Stack:
