@@ -20,7 +20,7 @@
 🖥️ Exploring **Compose Multiplatform**, building shared UI for **Android and iOS** using **Kotlin & Compose**  
 💡 Strong in **MVVM**, **Clean Architecture**, **Coroutines/Flow**, **Hilt/Koin**, and the **Firebase ecosystem**  
 🎮 Previously worked with **Unity** and **C#**, developing **real-time systems and mobile games** <br>
-🌍 Passionate about **clean architecture**, **scalable mobile systems**, **Android**, **Kotlin**, **Jetpack Compose**, **Compose Multiplatform**, **Ktor** basically everything about **Kotlin** and **Mobile**
+🌍 Passionate about **clean architecture**, **scalable mobile systems**, **Android**, **Kotlin**, **Jetpack Compose**, **Compose Multiplatform**, **Ktor** basically everything about **Kotlin** and **Mobile** <br>
 📫 Reach me at:  
 
 <a href="https://linkedin.com/in/mertgoksu"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="24"></a>
