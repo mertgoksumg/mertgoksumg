@@ -26,9 +26,9 @@
 <a href="https://github.com/mertgoksumg"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" height="24"></a>
 <br><br>
 # Currently Learning:
-🧩 **Compose Multiplatform** – creating shared UI mobile applications across Android, iOS, and Desktop 
-🖥️ **Ktor** – building lightweight APIs and backend integrations with Kotlin for my personal projects
-⚙️ **CI/CD** – automating builds and deployment pipelines using **CircleCI**
+🧩 **Compose Multiplatform** – creating shared UI mobile applications across Android, iOS, and Desktop <br>
+🖥️ **Ktor** – building lightweight APIs and backend integrations with Kotlin for my personal projects <br>
+⚙️ **CI/CD** – automating builds and deployment pipelines using **CircleCI** <br>
 <br><br>
 ## Tech Stack:
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
