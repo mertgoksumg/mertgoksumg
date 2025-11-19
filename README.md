@@ -15,10 +15,12 @@
 
 ## About Me:
 💼 I'm an **Android Developer** specializing in **Kotlin**, **XML**, and **Jetpack Compose**  
-🏦 Currently working at **MARS Financial Software**, focusing on **fintech and payment systems**  
-🧠 I have **nearly 2 years of hands-on experience** developing Android applications for **financial platforms**  
-💡 Previously developed **mobile games and real-time systems** using **Unity** and **C#**  
-🌍 Passionate about **clean architecture**, **scalable mobile design**, **multiplatform systems** and **continuous learning**  
+🏦 Currently working at **MARS Financial Software**, developing **secure, high-performance, and scalable** features for a financial application in the **fintech domain**  
+🧠 I have **nearly 2 years of hands-on experience** delivering production-ready Android applications (**transaction flows**, **digital payments**, **card management**)  
+🖥️ Exploring **Compose Multiplatform**, building shared UI for **Android and iOS** using **Kotlin & Compose**  
+💡 Strong in **MVVM**, **Clean Architecture**, **Coroutines/Flow**, **Hilt/Koin**, and the **Firebase ecosystem**  
+🎮 Previously worked with **Unity** and **C#**, developing **real-time systems and mobile games**  
+🌍 Passionate about **clean architecture**, **scalable mobile systems**, **Android**, **Kotlin**, **Jetpack Compose**, **Compose Multiplatform**, **Ktor** basically everything about **Kotlin** and **Mobile**
 📫 Reach me at:  
 
 <a href="https://linkedin.com/in/mertgoksu"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="24"></a>
