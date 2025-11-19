@@ -19,7 +19,7 @@
 🧠 I have **nearly 2 years of hands-on experience** delivering production-ready Android applications (**transaction flows**, **digital payments**, **card management**)  
 🖥️ Exploring **Compose Multiplatform**, building shared UI for **Android and iOS** using **Kotlin & Compose**  
 💡 Strong in **MVVM**, **Clean Architecture**, **Coroutines/Flow**, **Hilt/Koin**, and the **Firebase ecosystem**  
-🎮 Previously worked with **Unity** and **C#**, developing **real-time systems and mobile games**  
+🎮 Previously worked with **Unity** and **C#**, developing **real-time systems and mobile games** <br>
 🌍 Passionate about **clean architecture**, **scalable mobile systems**, **Android**, **Kotlin**, **Jetpack Compose**, **Compose Multiplatform**, **Ktor** basically everything about **Kotlin** and **Mobile**
 📫 Reach me at:  
 
