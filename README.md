@@ -16,7 +16,7 @@
 ## About Me:
 💼 I'm an **Android Developer** specializing in **Kotlin**, **XML**, and **Jetpack Compose**  
 🏦 Currently working at **MARS Financial Software**, focusing on **fintech and payment systems**  
-🧠 I have **1.5 years of hands-on experience** developing Android applications for **financial platforms**  
+🧠 I have **nearly 2 years of hands-on experience** developing Android applications for **financial platforms**  
 💡 Previously developed **mobile games and real-time systems** using **Unity** and **C#**  
 🌍 Passionate about **clean architecture**, **scalable mobile design**, **multiplatform systems** and **continuous learning**  
 📫 Reach me at:  
