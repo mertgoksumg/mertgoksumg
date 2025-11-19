@@ -27,7 +27,7 @@
 <br><br>
 # Currently Learning:
 🧩 **Compose Multiplatform** – creating shared UI mobile applications across Android, iOS, and Desktop
-🚀 **Ktor** – building lightweight APIs and backend integrations with Kotlin for my personal projects  
+🖥️ **Ktor** – building lightweight APIs and backend integrations with Kotlin for my personal projects
 ⚙️ **CI/CD** – automating builds and deployment pipelines using **CircleCI**
 <br><br>
 ## Tech Stack:
