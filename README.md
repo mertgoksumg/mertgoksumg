@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=4000&pause=1500&color=%23FFFFFF&center=true&vCenter=true&width=900&lines=Android+Developer+%7C+Kotlin+%26+Jetpack+Compose"
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=4000&pause=1500&color=%23FFFFFF&center=true&vCenter=true&width=900&lines=Android+Developer+%7C+Kotlin+%26+XML%2FJetpack+Compose"
     alt="title"
   />
 </p>
